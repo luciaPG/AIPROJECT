@@ -15,7 +15,7 @@ outside this list, from the literature.
 • Multilayer Perceptron
 
 
-Tips
+#Tips#
 ● Split away a “test” portion of the data immediately after importing it. Only use this set
 once you are ready to test your three algorithms against each other. Use validation
 splits from your training set to select hyperparameters for your algorithms. Apply the
