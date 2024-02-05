@@ -5,5 +5,5 @@
 
 -> Decision trees 
 
--> SGD 
+-> Gradient Descent + sgd 
 
