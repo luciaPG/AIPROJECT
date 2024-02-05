@@ -1,9 +1,9 @@
 # AIPROJECT
 
 
--> GLM 
+-> GLM (Jean Baptiste)
 
--> Decision trees 
+-> Decision trees (Yifan)
 
--> Gradient Descent + sgd 
+-> Gradient Descent + sgd  (Gonzalo & Lucía)
 
