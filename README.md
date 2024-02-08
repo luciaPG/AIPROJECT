@@ -1,6 +1,5 @@
-# AIPROJECT
 
-
+=======
 -> GLM (Jean Baptiste)
 
 -> Decision trees (Yifan)
