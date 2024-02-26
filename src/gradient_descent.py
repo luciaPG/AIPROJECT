@@ -179,6 +179,7 @@ def scatter_price_size_gradient():
     h = lambda theta_0,theta_1,x: theta_0 + theta_1*x
 
     plt.style.use("ggplot")
+    #jfjvoiejwvo
 
     plt.scatter(res[0], res[1], marker='o', c='b')
     plt.plot(xx,h(res[2][0],res[2][1],xx))
