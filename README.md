@@ -1,1 +1,2 @@
-https://docs.google.com/document/d/1-2vhARf_toa9uQllMwjs2CGADmP7UX6DAfgZ0NKRQ_g/edit?usp=sharing
+Remember to change the link of data to "/data/train_clean.csv" and "/data/test_clean.csv" for marchine learning parts.
+Remember to change the link of data to "/data/train.csv" and "/data/test.csv" for Data cleaning.
